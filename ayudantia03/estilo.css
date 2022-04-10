@@ -1,0 +1,48 @@
+.destacarfondos{
+    background-color: rosybrown;
+}
+
+
+#agrandar{
+    font-size: larger;
+}
+
+nav ul {
+    background-color: lightseagreen;
+}
+
+
+#chiquito{
+    font-size:x-small;
+}
+
+
+#margen1{
+    width: 300px;
+    height: 250px;
+    padding: 10px
+
+}
+
+
+
+
+#m2 {
+    text-shadow: 0px 5px 3px royalblue;
+    margin: 100px auto 35px;
+    
+}
+
+
+#m3 {
+    margin-right: 13px;
+    float: left;
+}
+
+
+#m4 {
+    padding-bottom: 50px;
+    float:inline-start
+
+}
+
